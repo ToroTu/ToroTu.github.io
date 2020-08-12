@@ -43,7 +43,7 @@
 快速介紹～
 - assets： 
     資源檔，現階段就在底下建個「 ***img*** 」的資料夾吧
-    放你的圖片 ( ~不是D槽~ )
+    放你的圖片 ( ~~不是D槽~~ )
 ![step 6](https://torotu.github.io/ITKeepSharing200806/img/day6/step_6.jpg?v=34)
 - components：
     Vue Component(元件)，我們之後切的component都放在這
