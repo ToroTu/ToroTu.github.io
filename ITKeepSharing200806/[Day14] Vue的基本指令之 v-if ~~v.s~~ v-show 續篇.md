@@ -45,8 +45,8 @@
     ```javascript
         var isShow = true;
     ```
-    ![step 1]()
-    ![step 2]()
+    ![step 1](https://torotu.github.io/ITKeepSharing200806/img/day14/step_1.jpg)
+    ![step 2](https://torotu.github.io/ITKeepSharing200806/img/day14/step_2.jpg)
     來來來
     我 v-show 一個綁「isShow」，一個綁「!isShow」
     所以對 v-show 而言
@@ -69,8 +69,8 @@
     &emsp;
     沒感覺?
     反一個!
-    ![step 3]()
-    ![step 4]()
+    ![step 3](https://torotu.github.io/ITKeepSharing200806/img/day14/step_3.jpg)
+    ![step 4](https://torotu.github.io/ITKeepSharing200806/img/day14/step_4.jpg)
     看吧～
     認清現實吧! 對CSS不了解的請稍稍google一下吧
     
